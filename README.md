@@ -7,8 +7,8 @@ Download apk termuxnya disini biar ngga eror🌟
 ```php
 $ apt update && apt upgrade -y 
 $ apt install git python -y
-$ git clone https://github.com/chabibi212/TES.git
-$ cd cracking
+$ git clone https://github.com/chabibi212/bibob.git
+$ cd bibob
 $ python bibob.py
 
 🌟KASIH BINTANG WOY🌟
